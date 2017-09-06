@@ -1,0 +1,12 @@
+C:\Users\ljia\Desktop\res1d2txt\res1d2txt\obj\Debug\res1d2txt.csprojResolveAssemblyReference.cache
+C:\Users\ljia\Desktop\res1d2txt\res1d2txt\bin\Debug\res1d2txt.exe.config
+C:\Users\ljia\Desktop\res1d2txt\res1d2txt\bin\Debug\res1d2txt.exe
+C:\Users\ljia\Desktop\res1d2txt\res1d2txt\bin\Debug\res1d2txt.pdb
+C:\Users\ljia\Desktop\res1d2txt\res1d2txt\bin\Debug\DHI.Generic.MikeZero.EUM.dll
+C:\Users\ljia\Desktop\res1d2txt\res1d2txt\bin\Debug\DHI.Mike1D.Generic.dll
+C:\Users\ljia\Desktop\res1d2txt\res1d2txt\bin\Debug\DHI.Mike1D.ResultDataAccess.dll
+C:\Users\ljia\Desktop\res1d2txt\res1d2txt\bin\Debug\DHI.DHIfl.dll
+C:\Users\ljia\Desktop\res1d2txt\res1d2txt\obj\Debug\res1d2txt.exe
+C:\Users\ljia\Desktop\res1d2txt\res1d2txt\obj\Debug\res1d2txt.pdb
+C:\Users\ljia\Desktop\res1d2txt\res1d2txt\bin\Debug\csmatio.dll
+C:\Users\ljia\Desktop\res1d2txt\res1d2txt\bin\Debug\zlib.net.dll
